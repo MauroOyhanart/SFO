@@ -1,5 +1,5 @@
 # SFO
-## A simple and small file operator
+## A simple and small file operator for learning purposes
 
 ## Arguments
 
