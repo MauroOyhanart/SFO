@@ -26,3 +26,13 @@ Once the data has been copied to this shell, it will not be lost.
 ![shell_1.png](img/shell_1.png)
 
 Exit input with Ctrl+D (unix).
+
+
+
+## Installation (UNIX)
+
+```sh
+cd /shell-unix-install
+sudo bash installer.sh mauro #$1 is your username, the one that will run the application
+sfo --from file.txt --to output.txt --log #use with --log to see program log output
+```
