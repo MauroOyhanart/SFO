@@ -16,7 +16,7 @@ public class SFOFileWriter extends SFOWriter{
     public SFOFileWriter(SFOFileOperator fileOperator) throws FileNotFoundException {
         super();
         this.fileOperator = fileOperator;
-        this.fileOutputStream = new FileOutputStream(fileOperator.getPath());
+        this.fileOutputStream = new FileOutputStream(fileOperator.getPath(), true);
         this.outputStreamWriter = new BufferedWriter(new OutputStreamWriter(fileOutputStream));
     }
 
