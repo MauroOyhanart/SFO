@@ -34,5 +34,6 @@ Exit input with Ctrl+D (unix).
 ```sh
 cd /shell-unix-install
 sudo bash installer.sh mauro #$1 is your username, the one that will run the application
+# This installer assumes "/usr/bin" is in your PATH env variable
 sfo --from file.txt --to output.txt --log #use with --log to see program log output
 ```
