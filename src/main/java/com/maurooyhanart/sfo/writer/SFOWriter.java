@@ -1,6 +1,4 @@
-package com.maurooyhanart.learning.writer;
-
-import com.maurooyhanart.learning.SFOFileOperator;
+package com.maurooyhanart.sfo.writer;
 
 /**
  * Writes to sources, either in text or in bytes.

@@ -1,4 +1,4 @@
-package com.maurooyhanart.learning.reader;
+package com.maurooyhanart.sfo.reader;
 
 /**
  * Provides reading methods for both bytes and chars.

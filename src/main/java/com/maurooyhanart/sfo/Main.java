@@ -1,7 +1,4 @@
-package com.maurooyhanart.learning;
-
-import java.io.CharArrayReader;
-import java.io.IOException;
+package com.maurooyhanart.sfo;
 
 /*
     ~Objective: perform common Java IO operations only using the java.io package~

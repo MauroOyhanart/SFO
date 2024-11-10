@@ -1,8 +1,7 @@
-package com.maurooyhanart.learning.writer;
+package com.maurooyhanart.sfo.writer;
 
-import com.maurooyhanart.learning.SFOController;
-import com.maurooyhanart.learning.SFOFileOperator;
-import jdk.swing.interop.SwingInterOpUtils;
+import com.maurooyhanart.sfo.SFOController;
+import com.maurooyhanart.sfo.SFOFileOperator;
 
 import java.io.*;
 

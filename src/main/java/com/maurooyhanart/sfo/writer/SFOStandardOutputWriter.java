@@ -1,4 +1,4 @@
-package com.maurooyhanart.learning.writer;
+package com.maurooyhanart.sfo.writer;
 
 import java.io.BufferedWriter;
 import java.io.IOException;

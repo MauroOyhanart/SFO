@@ -1,4 +1,4 @@
-package com.maurooyhanart.learning.data;
+package com.maurooyhanart.sfo.data;
 
 public class DataContainer {
     private final int size;

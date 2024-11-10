@@ -1,6 +1,6 @@
-package com.maurooyhanart.learning.reader;
+package com.maurooyhanart.sfo.reader;
 
-import com.maurooyhanart.learning.SFOController;
+import com.maurooyhanart.sfo.SFOController;
 
 import java.io.IOException;
 import java.io.InputStreamReader;

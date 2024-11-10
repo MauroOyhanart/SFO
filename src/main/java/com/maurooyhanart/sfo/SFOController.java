@@ -1,12 +1,12 @@
-package com.maurooyhanart.learning;
+package com.maurooyhanart.sfo;
 
-import com.maurooyhanart.learning.data.DataContainer;
-import com.maurooyhanart.learning.reader.SFOFileReader;
-import com.maurooyhanart.learning.reader.SFOReader;
-import com.maurooyhanart.learning.reader.SFOStandardInputReader;
-import com.maurooyhanart.learning.writer.SFOFileWriter;
-import com.maurooyhanart.learning.writer.SFOStandardOutputWriter;
-import com.maurooyhanart.learning.writer.SFOWriter;
+import com.maurooyhanart.sfo.data.DataContainer;
+import com.maurooyhanart.sfo.reader.SFOFileReader;
+import com.maurooyhanart.sfo.reader.SFOReader;
+import com.maurooyhanart.sfo.reader.SFOStandardInputReader;
+import com.maurooyhanart.sfo.writer.SFOFileWriter;
+import com.maurooyhanart.sfo.writer.SFOStandardOutputWriter;
+import com.maurooyhanart.sfo.writer.SFOWriter;
 
 import java.io.FileNotFoundException;
 
